@@ -1,0 +1,35 @@
+body {
+  background-color: #ffbdde;
+  padding: 5%;
+  font-family: 'Montserrat';
+}
+
+main {
+  background-color: white;
+  color: black;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+section {
+  padding: 3% 5%;
+}
+
+img {
+  width: 100%;
+}
+
+h1 {
+    margin-top: 0px;
+    border: 5px dashed #a8a8a8:
+    padding: 10px;
+    text-align: center;
+}
+h2{
+  text-align: center;
+  border-bottom: 2px dashed #a8a8a8;
+}
+h1, h2 {
+    text-align: center;
+    border-bottom: 2px dashed #a8a8a8;
+}
